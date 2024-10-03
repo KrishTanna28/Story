@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Hello People
+=======
+Hello World from different universe!
+>>>>>>> alien-plot
